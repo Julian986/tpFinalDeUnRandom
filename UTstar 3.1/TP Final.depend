@@ -1,0 +1,383 @@
+# depslib dependency file v1.0
+1491400450 source:c:\users\hermanos-macana\documents\utn\2020\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1592246428 source:c:\users\hermanos-macana\documents\utn\2020\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+
+1592418671 c:\users\hermanos-macana\documents\utn\2020\tp final\prototipados.h
+
+1491399896 c:\users\hermanos-macana\documents\utn\2020\tp final\gotoxy.h
+
+1592509335 source:c:\users\hermanos-macana\documents\utn\2020\tp final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+
+1592509850 source:c:\users\hermanos-macana\documents\utn\2020\tp final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+
+1592509286 source:c:\users\hermanos-macana\documents\utn\2020\tp final\visualclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+
+1491400450 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593054875 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"time.h"
+
+1593061767 c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\prototipados.h
+
+1491399896 c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\gotoxy.h
+
+1593105467 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593104211 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593054875 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\visualclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1592931888 c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\visualclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"visualclientes.c"
+
+1593105433 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593103250 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\tp final\visualconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593114241 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.0\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593061767 c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.0\prototipados.h
+
+1491399896 c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.0\gotoxy.h
+
+1593109517 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.0\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1491400450 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.0\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593054875 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"time.h"
+
+1593105467 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593054875 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.0\visualclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593103250 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.0\visualconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593115776 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593061767 c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.1\prototipados.h
+
+1491399896 c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.1\gotoxy.h
+
+1593120201 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.1\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1491400450 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593054875 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"time.h"
+
+1593120006 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593054875 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.1\visualclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593103250 source:c:\users\hermanos-macana\documents\utn\2020\laboratorio\versiones del tp final\tp final 3.1\visualconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593115776 source:c:\users\hermanos-macana\documents\utn\2020\utstar\utstar 3.1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593061767 c:\users\hermanos-macana\documents\utn\2020\utstar\utstar 3.1\prototipados.h
+
+1491399896 c:\users\hermanos-macana\documents\utn\2020\utstar\utstar 3.1\gotoxy.h
+
+1593120553 source:c:\users\hermanos-macana\documents\utn\2020\utstar\utstar 3.1\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1491400450 source:c:\users\hermanos-macana\documents\utn\2020\utstar\utstar 3.1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593054875 source:c:\users\hermanos-macana\documents\utn\2020\utstar\utstar 3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"time.h"
+
+1593120006 source:c:\users\hermanos-macana\documents\utn\2020\utstar\utstar 3.1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593054875 source:c:\users\hermanos-macana\documents\utn\2020\utstar\utstar 3.1\visualclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593103250 source:c:\users\hermanos-macana\documents\utn\2020\utstar\utstar 3.1\visualconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593115776 source:c:\users\julián\desktop\utstar 3.1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593061767 c:\users\julián\desktop\utstar 3.1\prototipados.h
+
+1491399896 c:\users\julián\desktop\utstar 3.1\gotoxy.h
+
+1593120553 source:c:\users\julián\desktop\utstar 3.1\consumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1491400450 source:c:\users\julián\desktop\utstar 3.1\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1593054875 source:c:\users\julián\desktop\utstar 3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"time.h"
+
+1593120006 source:c:\users\julián\desktop\utstar 3.1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593054875 source:c:\users\julián\desktop\utstar 3.1\visualclientes.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
+1593103250 source:c:\users\julián\desktop\utstar 3.1\visualconsumos.c
+	<stdio.h>
+	<stdlib.h>
+	"prototipados.h"
+	"gotoxy.h"
+	<windows.h>
+	"ctype.h"
+	"string.h"
+	"time.h"
+
